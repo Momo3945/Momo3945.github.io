@@ -1,1 +1,1 @@
-In thiS lab,I learned how to use git and github.
+In thiS lab,I learned how to use git and github.Also how to deploy to github pages.
